@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 9c760332f92be4e2ef94328a6fd3ebb2_2a5bd3a9b4b211f19ef152540024e231
+    ReservedCode1: 9prLuSMoPey8zR28Rnr4Cz7da67rYM0EnEUIeFJUGGK+AdyHb+q4rVYt46fwPHl74HchwIZ+FFt6KWQa2fR8JwS0fdV6N1LUKH7WJWXeSIyrCWGSnn548VH/K27rxOZhb13t7pKk38qGJhd1OsP94dCpAzPDf/iNxnu9UT25umcKdQbYrdwBU/KVLIo=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 9c760332f92be4e2ef94328a6fd3ebb2_2a5bd3a9b4b211f19ef152540024e231
+    ReservedCode2: 9prLuSMoPey8zR28Rnr4Cz7da67rYM0EnEUIeFJUGGK+AdyHb+q4rVYt46fwPHl74HchwIZ+FFt6KWQa2fR8JwS0fdV6N1LUKH7WJWXeSIyrCWGSnn548VH/K27rxOZhb13t7pKk38qGJhd1OsP94dCpAzPDf/iNxnu9UT25umcKdQbYrdwBU/KVLIo=
+---
+
 # prompt-crafter（提示词大师）
 
 从零撰写 AI 提示词的专业 Skill，支持**视频生成、图片生成、文本生成**三大类。工作模式为"反问澄清 → 按类型生成 → 纯文本交付 → 局部可修改"，并支持框架化生成与自动化批量生成。
@@ -54,3 +65,4 @@ prompt-crafter-skill/
 ## License
 
 MIT
+*（内容由AI生成，仅供参考）*
